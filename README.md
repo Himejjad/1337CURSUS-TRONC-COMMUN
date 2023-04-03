@@ -12,6 +12,6 @@
 | Exam rank 2  🚩  |          |                           |            | 100✅✅ |
 | so_long          | 60 Hrs   | C - 2D GameDev            | 1000 XP    | 100✅✅ |
 | minitalk           | 50 Hrs   | C - signals                  | 1142 XP    | 100✅✅ |
-| push_swap        | 60 Hrs   | C - Sorting algorithms    | 1855 XP    | In progress🔄🔄 |
+| push_swap        | 60 Hrs   | C - Sorting algorithms    | 0XP    | In progress🔄🔄 |
 | 🌀🌀🌀            |          |                           |            |        |
 | Exam rank 3  🚩  |          |                           |            | In progress🔄🔄 |
