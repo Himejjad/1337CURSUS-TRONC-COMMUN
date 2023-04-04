@@ -1,8 +1,9 @@
 # 42Cursus progress
 
 
-| Project          | Hours    | Topic                     | Experience | Status |
-| ---------------- |---------:| ------------------------- | ---------: | :----: |
+| Project          | Hours    | Topic                     | Experience | Status | Status |
+| :----: |
+| ---------------- |---------:| ------------------------- | ---------: | :----: | :----: |
 | libft            | 70 Hrs   | C - Libraries             | 462 XP     | 100✅✅ |
 | 🌀🌀🌀            |          |                           |            |        |
 | ft_printf        | 70 Hrs   | C - Variadic functions    | 882 XP     | 100✅✅ |
