@@ -3,7 +3,7 @@
 
 | Project          | Hours    | Topic                     | Experience | Status |Project link |
 | ---------------- |---------:| ------------------------- | ---------: | ----: | :----: | 
-| libft            | 70 Hrs   | C - Libraries             | 462 XP     | 100✅✅ | shorturl.at/nqsWX | 
+| libft            | 70 Hrs   | C - Libraries             | 462 XP     | 100✅✅ | https://github.com/Himejjad/libft.c | 
 | 🌀🌀🌀            |          |                           |            |        |  |
 | ft_printf        | 70 Hrs   | C - Variadic functions    | 882 XP     | 100✅✅ | |
 | get_next_line    | 70 Hrs   | C - Static variables      | 882 XP     | 125✅✅ | |
