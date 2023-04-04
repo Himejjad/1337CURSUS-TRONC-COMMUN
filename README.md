@@ -1,7 +1,7 @@
 # 42Cursus progress
 
 
-| Project          | Hours    | Topic                     | Experience | Status |Status |
+| Project          | Hours    | Topic                     | Experience | Status |Project link |
 | ---------------- |---------:| ------------------------- | ---------: | ----: | :----: | 
 | libft            | 70 Hrs   | C - Libraries             | 462 XP     | 100✅✅ | | 
 | 🌀🌀🌀            |          |                           |            |        |  |
