@@ -3,7 +3,7 @@
 
 | Project          | Hours    | Topic                     | Experience | Status       |Project link |
 | ---------------- |---------:| ------------------------- | ---------: | ----:        | :----: | 
-| libft            | 70 Hrs   | C - Libraries             | 462 XP     | 100✅       |https://github.com/Himejjad/libft.c| 
+| libft            | 70 Hrs   | C - Libraries             | 462 XP     | [![himejjad's 42 Libft Score](https://badge42.vercel.app/api/v2/cla524xep00060fjuwvb98esz/project/2822076)](https://github.com/JaeSeoKim/badge42)       |https://github.com/Himejjad/libft.c| 
 | 🌀🌀🌀            |          |                           |            |              |  |
 | ft_printf        | 70 Hrs   | C - Variadic functions    | 882 XP     | 100✅       |https://github.com/Himejjad/ft_printf|
 | get_next_line    | 70 Hrs   | C - Static variables      | 882 XP     | 125✅       |https://github.com/Himejjad/get_next_line|
