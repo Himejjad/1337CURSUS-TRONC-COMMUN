@@ -19,20 +19,19 @@
 # 42Cursus progress
 
 
-| Project          | Hours    | Topic  | Experience | | Status |
-| ---------------- |---------:| -------------------------   | ---------: | | :----: |
-|  C Piscine Shell 00  | 70 Hrs   | C - Libraries              | 100 XP     | |
-|   C Piscine Shell 01 | 70 Hrs   | C - Variadic functions     | 100 XP     |   |
-|  EXAM00  | 70 Hrs   | C - Static variables      |  225 XP      |   |
-|  C Piscine C 00  | 40 Hrs   | System administration         | 100 XP     |   |
-|  C Piscine C 01   |          |                               |  100 XP          |        |
-|   C Piscine Exam 01  |          |                            |            |        |
-|  C Piscine C 02 |          |                                |            |   |
-|  C Piscine C 03  | 60 Hrs   | C - Sorting algorithms        | 100 XP    |   |
-|  C Piscine C 04  | 60 Hrs   | C - 2D GameDev                | 100 XP    ||
-|   C Piscine Exam 02  |          |                            |            |        |
-|  C Piscine C 05  | 50 Hrs   | C - Pipe                     | 100 XP    ||
-|   C Piscine C 06  |          |                               |  100 XP          |        |
-|   C Piscine C 07  |          |                              |   100 XP         |        |
-|   C Piscine Final Exam  |          |                            |            |        |
-
+| Project             | Hours    | Topic                  | Experienc  |Status|
+| ----------------    |---------:| --------------------   | ---------: |:----:|
+|  C Piscine Shell 00 | 70 Hrs   | C - Libraries          | 100 XP     |      |
+|  C Piscine Shell 01 | 70 Hrs   | C - Variadic functions | 100 XP     |      |
+|  C Piscine Exam 00  | 70 Hrs   | C - Static variables   |  225 XP    |      |
+|  C Piscine C 00     | 40 Hrs   | System administration  | 100 XP     |      |
+|  C Piscine C 01     |          |                        |  100 XP    |      |
+|  C Piscine Exam 01  |          |                        |            |      |
+|  C Piscine C 02     |          |                        |            |      |
+|  C Piscine C 03     | 60 Hrs   | C - Sorting algorithms | 100 XP     |      |
+|  C Piscine C 04     | 60 Hrs   | C - 2D GameDev         | 100 XP     |      |
+|  C Piscine Exam 02  |          |                        |            |      |
+|  C Piscine C 05     | 50 Hrs   | C - Pipe               | 100 XP     |      |
+|  C Piscine C 06     |          |                        |  100 XP    |      |
+|  C Piscine C 07     |          |                        |   100 XP   |      |
+|C Piscine Final Exam  |          |                       |            |      |
