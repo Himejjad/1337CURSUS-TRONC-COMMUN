@@ -20,7 +20,7 @@
 
 
 | Project             | Hours    | Experienc  |Status|
-| ----------------    |---------:| ---------: |:----:|
+| ----------------    |---------:| --------- |:----:|
 |  C Piscine Shell 00 | 1DAY  | command-line interface         | 100 XP    |  [![himejjad's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/2674884)](https://github.com/JaeSeoKim/badge42)    |
 |  C Piscine Shell 01 | 1DAY  | command-line interface | 100 XP    |   [![himejjad's 42 C Piscine Shell 01 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/2675630)](https://github.com/JaeSeoKim/badge42)   |
 |  C Piscine Exam 00  | 1DAY  | C-PROGRAMMING  |  225 XP           |   [![himejjad's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/2676084)](https://github.com/JaeSeoKim/badge42)   |
