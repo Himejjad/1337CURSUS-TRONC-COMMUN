@@ -15,5 +15,5 @@
 | minitalk           | 50 Hrs   | C - signals             | 1142 XP    | [![himejjad's 42 minitalk Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/2939850)](https://github.com/JaeSeoKim/badge42)              |
 | push_swap        | 60 Hrs   | C - Sorting algorithms    |    0XP     | [![himejjad's 42 push_swap Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3018646)](https://github.com/JaeSeoKim/badge42)              |
 | 🌀🌀🌀            |          |                           |            |               | | 
-| Exam rank 3  🚩  |          |                           |            | In progress🔄    | |
+| Exam rank 3  🚩  |   4 Hrs       |    C - Variadic functions - Static variables                       |      0 XP      | In progress🔄    | |
 
