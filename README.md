@@ -1,6 +1,6 @@
 # 1337Cursus progress
 
-# PROJECT LINK : 
+
 
 | Project          | Hours    | Topic                     | Experience | Status |
 | ---------------- |---------:| ------------------------- | ---------: | ----:  |
