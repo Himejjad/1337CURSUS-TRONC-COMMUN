@@ -18,5 +18,3 @@
 | Exam rank 3  🚩  |   4 Hrs       |    C - Variadic functions - Static variables                       |      0 XP      |[![himejjad's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088670)](https://github.com/JaeSeoKim/badge42)    | |
 | philosophers  |   70 Hrs       |   C - Threads & Processes                       |      3360 XP      |[![himejjad's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088670)](https://github.com/JaeSeoKim/badge42)    | |
 
-
-
