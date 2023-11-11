@@ -18,6 +18,9 @@
 | Exam rank 3  🚩  |   4 Hrs       |    C - Variadic functions - Static variables                       |      0 XP      |[![himejjad's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088670)](https://github.com/JaeSeoKim/badge42)    | |
 | philosophers  |   70 Hrs       |   C - Threads & Processes                       |      3360 XP      |[![himejjad's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088671)](https://github.com/JaeSeoKim/badge42)
 | Minishell  |   210 Hrs       |  C - processes & fd                       |     2814 XP      |[![himejjad's 42 minishell Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088672)](https://github.com/JaeSeoKim/badge42)
+| NetPractice |   210 Hrs       |  Networking                       |     2814 XP      |[![himejjad's 42 minishell Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088672)](https://github.com/JaeSeoKim/badge42)
+| Exam rank 4  🚩  |   4 Hrs       |    C - Microshell                      |      0 XP      |[![himejjad's 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088670)](https://github.com/JaeSeoKim/badge42)    | |
+| Cub3D  |   280 Hrs       |  C - 3D GameDev                      |     5775 XP      |[![himejjad's 42 minishell Score](https://badge42.vercel.app/api/v2/clg1la94r000608kvte3cis6r/project/3088672)](https://github.com/JaeSeoKim/badge42)
 
 
 
